@@ -6,6 +6,8 @@ public class VinayHelloWorld {
 System.out.println("Hello World Amazon");
 System.out.println("Second line");
 System.out.println("Third line");
+System.out.println("Fourth line");
+
 	}
 
 }
